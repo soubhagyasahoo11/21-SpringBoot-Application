@@ -8,6 +8,7 @@ class ApplicationTests {
 
 	@Test
 	void contextLoads() {
+		Sysytem.out.println("hello");
 	}
 
 }
